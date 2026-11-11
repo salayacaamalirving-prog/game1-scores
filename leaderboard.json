@@ -16,6 +16,12 @@
 	"normal": [
 		{
 			"date": "2026-11-11",
+			"name": "Vortex",
+			"score": 589,
+			"time": 131.83
+		},
+		{
+			"date": "2026-11-11",
 			"name": "salaya",
 			"score": 87.0,
 			"time": 39.03
@@ -23,7 +29,7 @@
 		{
 			"date": "2026-11-11",
 			"name": "Jugador",
-			"score": 69,
+			"score": 69.0,
 			"time": 36.12
 		}
 	],
