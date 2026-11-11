@@ -3,8 +3,14 @@
 		{
 			"date": "2026-11-11",
 			"name": "Vortex",
-			"score": 363,
+			"score": 363.0,
 			"time": 51.24
+		},
+		{
+			"date": "2026-11-11",
+			"name": "Jugador",
+			"score": 298,
+			"time": 44.86
 		}
 	],
 	"normal": [
