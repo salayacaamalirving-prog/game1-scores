@@ -1,4 +1,9 @@
 {
-	"v": 1,
-	"accounts": {}
+	"accounts": {
+		"hshdhsjaha": {
+			"h": "c042d2da34110e45805b7d497ed2456db8e2694dd828a66a956d4f2afd25f52a",
+			"n": "hshdhsjaha"
+		}
+	},
+	"v": 1.0
 }
