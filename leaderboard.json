@@ -1,12 +1,6 @@
 {
-	"extremo": [
-		{
-			"date": "2026-11-11",
-			"name": "Jugador",
-			"score": 20,
-			"time": 13.2
-		}
-	],
+	"v": 2,
 	"normal": [],
-	"v": 1.0
+	"extremo": [],
+	"local": []
 }
