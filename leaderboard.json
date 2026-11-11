@@ -1,1 +1,12 @@
-{"v":1,"normal":[],"extremo":[]}
+{
+	"extremo": [],
+	"normal": [
+		{
+			"date": "2026-11-11",
+			"name": "salaya",
+			"score": 87,
+			"time": 39.03
+		}
+	],
+	"v": 1.0
+}
