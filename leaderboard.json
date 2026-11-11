@@ -1,10 +1,17 @@
 {
-	"extremo": [],
+	"extremo": [
+		{
+			"date": "2026-11-11",
+			"name": "Vortex",
+			"score": 363,
+			"time": 51.24
+		}
+	],
 	"normal": [
 		{
 			"date": "2026-11-11",
 			"name": "salaya",
-			"score": 87,
+			"score": 87.0,
 			"time": 39.03
 		}
 	],
