@@ -1,9 +1,4 @@
 {
-	"accounts": {
-		"salaya": {
-			"h": "44b8e36ef52e241187b11c6853ac9958b4943b0bf3567843818de26abef43e02",
-			"n": "salaya"
-		}
-	},
-	"v": 1
+	"v": 1,
+	"accounts": {}
 }
