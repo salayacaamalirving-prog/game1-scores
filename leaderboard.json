@@ -1,5 +1,13 @@
 {
-	"extremo": [],
+	"extremo": [
+		{
+			"date": "2026-11-11",
+			"name": "hshdhsjaha",
+			"score": 1,
+			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAXRJREFUOI19kj9PG0EQxX9nXxOQEt0qVFyDZFHGcYPcgUNrPhGidJEi6YAPQUmNnCaSKxJTIFmOdIVpaEZYCBCI80tx3B+fj3vSamdn583Om1kPQBJAE4gBUYJzruzKIQlJL9Gz1J9KkhQEwdIqoj+VFsrjkNScPUt7k5y4O0kC0j3F7kTqFeIkJRX0p4nz5E46udPK62Xf3kS6fJAkNT1JOOeWdA8i43CrRncBniQO/qHzFpzOWSEOImMRxxy1Nt5PAKi208Drhzbfr4cAnN3CjxD2Q0cD8jENIssI8XoHM2MQGWa2lOxv17EfuuoKzIyPmz28RoP57AKAT+E3JOE/jZcSmZnvBUEggC8j49d2cnFsC45an2slrSSoQ1FauQfZFO4XcNXNG5nqPp0n56qxmpnvA/zeyS/T1+qm0h4ZP8PEziS0R8a4W036OsolpHqHSb+8yp94cWN01uDPY3UFnbXM9LIKCrP23/bXgl1GnLA9/gOrKwVAMGwBwgAAAABJRU5ErkJggg==",
+			"time": 4.51
+		}
+	],
 	"local": [],
 	"normal": [
 		{
@@ -12,7 +20,8 @@
 		{
 			"date": "2026-11-11",
 			"name": "Jugador",
-			"score": 30,
+			"score": 30.0,
+			"skin": "",
 			"time": 26.92
 		}
 	],
