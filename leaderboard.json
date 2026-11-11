@@ -1,35 +1,6 @@
 {
-	"extremo": [
-		{
-			"date": "2026-11-11",
-			"name": "Jugador",
-			"score": 44,
-			"time": 19.2
-		},
-		{
-			"date": "2026-11-11",
-			"name": "hshdhsjaha",
-			"score": 1.0,
-			"skin": "",
-			"time": 4.51
-		}
-	],
-	"local": [],
-	"normal": [
-		{
-			"date": "2026-11-11",
-			"name": "hshdhsjaha",
-			"score": 33.0,
-			"skin": "",
-			"time": 29.45
-		},
-		{
-			"date": "2026-11-11",
-			"name": "Jugador",
-			"score": 30.0,
-			"skin": "",
-			"time": 26.92
-		}
-	],
-	"v": 2.0
+	"v": 2,
+	"normal": [],
+	"extremo": [],
+	"local": []
 }
