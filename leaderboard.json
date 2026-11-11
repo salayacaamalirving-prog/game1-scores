@@ -1,6 +1,14 @@
 {
-	"v": 2,
-	"normal": [],
 	"extremo": [],
-	"local": []
+	"local": [],
+	"normal": [
+		{
+			"date": "2026-11-11",
+			"name": "w00e",
+			"score": 2,
+			"skin": "",
+			"time": 9.62
+		}
+	],
+	"v": 2.0
 }
