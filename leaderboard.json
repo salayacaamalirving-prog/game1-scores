@@ -2,6 +2,12 @@
 	"extremo": [
 		{
 			"date": "2026-11-11",
+			"name": "Jugador",
+			"score": 44,
+			"time": 19.2
+		},
+		{
+			"date": "2026-11-11",
 			"name": "hshdhsjaha",
 			"score": 1.0,
 			"skin": "",
