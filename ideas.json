@@ -55,6 +55,13 @@
 			"name": "Vortex",
 			"status": "pending",
 			"text": "Poder entrar a una tienda de aspectos y dentro de esa tienda poder hacerte el tuyo y poder comprar/seleccionar"
+		},
+		{
+			"date": "2026-11-12",
+			"id": "17945086912273",
+			"name": "Vortex",
+			"status": "pending",
+			"text": "Que cuando rompas un meteorito con el escudo te cuente como puntos"
 		}
 	],
 	"v": 1.0
