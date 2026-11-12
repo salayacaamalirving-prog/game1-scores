@@ -62,6 +62,13 @@
 			"name": "Vortex",
 			"status": "pending",
 			"text": "Que cuando rompas un meteorito con el escudo te cuente como puntos"
+		},
+		{
+			"date": "2026-11-12",
+			"id": "17945087634130",
+			"name": "Vortex",
+			"status": "pending",
+			"text": "Cuando choquen dos o más meteoritos en la pantalla, en vez de seguir su trayectoria, den un ítem de ayuda al jugador"
 		}
 	],
 	"v": 1.0
