@@ -31,7 +31,7 @@
 		{
 			"date": "2026-11-12",
 			"name": "samu pou",
-			"score": 44,
+			"score": 44.0,
 			"skin": "",
 			"time": 44.2
 		}
@@ -94,6 +94,13 @@
 			"score": 127.0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAALtJREFUOI1jZGBgYMh3EP/PQAaYeOAlIyO6ZjlRXoIaH73+DGczIWskRjO6JSwwRsuetwwMDAwM7969Y2BgYGDoC1NF0VS06jYDAwMDg5CQEAMDAwNDjYsww6PXnyEuINZmbICJsBL8gDHfQfw/uS549PozIgzQwczzmGLphphiWL0A0/z67Vs4/frtW6yGYjUg3RChmZALcHqhxkUYiSeMSxnlsUC2AbDkzITMocgFpBiCrJaRgYGy7AwAcNI7Z7nqAQAAAAAASUVORK5CYII=",
 			"time": 43.96
+		},
+		{
+			"date": "2026-11-12",
+			"name": "samu pou",
+			"score": 61,
+			"skin": "",
+			"time": 61.29
 		},
 		{
 			"date": "2026-11-11",
