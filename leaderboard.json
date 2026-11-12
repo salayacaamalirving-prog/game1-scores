@@ -1,22 +1,6 @@
 {
-	"extremo": [
-		{
-			"date": "2026-11-12",
-			"name": "samu pou",
-			"score": 44.0,
-			"skin": "",
-			"time": 44.2
-		}
-	],
-	"local": [
-		{
-			"date": "2026-11-12",
-			"name": "samu pou",
-			"score": 3.0,
-			"skin": "",
-			"time": 35.57
-		}
-	],
+	"extremo": [],
+	"local": [],
 	"normal": [
 		{
 			"date": "2026-11-11",
@@ -24,13 +8,6 @@
 			"score": 200.0,
 			"skin": "",
 			"time": 70.99
-		},
-		{
-			"date": "2026-11-12",
-			"name": "samu pou",
-			"score": 61.0,
-			"skin": "",
-			"time": 61.29
 		},
 		{
 			"date": "2026-11-11",
