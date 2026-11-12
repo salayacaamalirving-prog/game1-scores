@@ -17,7 +17,7 @@
 		{
 			"date": "2026-11-12",
 			"name": "Farfadox6366",
-			"score": 74,
+			"score": 74.0,
 			"skin": "",
 			"time": 23.17
 		},
@@ -29,7 +29,15 @@
 			"time": 22.21
 		}
 	],
-	"local": [],
+	"local": [
+		{
+			"date": "2026-11-12",
+			"name": "Farfadox6366",
+			"score": 1,
+			"skin": "",
+			"time": 36.3
+		}
+	],
 	"normal": [
 		{
 			"date": "2026-11-11",
