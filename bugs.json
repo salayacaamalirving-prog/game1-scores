@@ -1,1 +1,12 @@
-
+{
+	"items": [
+		{
+			"date": "2026-11-12",
+			"id": "17944875351450",
+			"name": "Vortex",
+			"status": "pending",
+			"text": "Cuando cambias de cuenta, y vuelves a iniciar sesión se borran los puntos que hallas hecho o records"
+		}
+	],
+	"v": 1
+}
