@@ -15,8 +15,17 @@
 			"id": "c1794592660_14019",
 			"name": "Corona de techno",
 			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAFtJREFUOI1jYBgFo2DQgWeWbv+t2v7/Z2BgYNgqPu9/b6jKfwYGBobqy51w8WeWbv//96/+j9WA/89y//9/lvufWDYDAwMDI7oBxLqWUWoyIwMDAwMTCT4cpAAAmhAzTCPg0PcAAAAASUVORK5CYII=",
-			"price": 50,
+			"price": 50.0,
 			"slot": "hat"
+		},
+		{
+			"author": "Vortex",
+			"date": "2026-11-13",
+			"id": "c1794592789_16656",
+			"name": "agua",
+			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAACxJREFUOI1jYBgF1AHp6en/sbGJASwwhlXbf4jGhxkkWQ43QJdEjaNgFCADAHpLCe5RNxVQAAAAAElFTkSuQmCC",
+			"price": 15,
+			"slot": "glasses"
 		}
 	],
 	"v": 1
