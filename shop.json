@@ -33,8 +33,17 @@
 			"id": "c1794592893_29272",
 			"name": "ladrillo premiun",
 			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAB1JREFUOI1jnLVg2X8GCgATJZpHDRg1YNSAwWQAAOfdAv8E+ducAAAAAElFTkSuQmCC",
-			"price": 10,
+			"price": 10.0,
 			"slot": "glasses"
+		},
+		{
+			"author": "Vortex",
+			"date": "2026-11-13",
+			"id": "c1794593045_3495",
+			"name": "poor",
+			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAGBJREFUOI1jYBgFwx1UuYr/r3IV/49PDSM+zcICvAwMDAwMbz98Zmjb/RKrWqyCyJphAJchTPg0t+x5C6eFBXgZsHmHEZdmXADdJXAGumaY7cigxkUYwxBGYm0m5JKBAwDGfzIWRf0S0wAAAABJRU5ErkJggg==",
+			"price": 20,
+			"slot": "hat"
 		}
 	],
 	"v": 1
