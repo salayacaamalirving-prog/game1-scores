@@ -60,8 +60,17 @@
 			"id": "c1794604907_22940",
 			"name": "judas",
 			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAGZJREFUOI1jYBhowPj/We5/ohVLTWakyABsgAWbYGbZVhT+9C5vnC6CG0CsJmTNDAwUeAFmAMleQA9IFBcga8TnBWRDUMKAWH/jdAGpmjFcAAMwl+DShGEAMc7H6TJivECMSwYOAAAdGy/b6Mvq3gAAAABJRU5ErkJggg==",
-			"price": 50,
+			"price": 50.0,
 			"slot": "wings"
+		},
+		{
+			"author": "samu pou",
+			"date": "2026-11-13",
+			"id": "c1794609143_22926",
+			"name": "penesito",
+			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAHtJREFUOI1jYMAD/v///x+dDwMwMUZ0xYyMjBhicMVIcnhtRQe9oSr/calnQhdghAIYvy9MFa+FLLgkCGnE6QJSwSA1AF+oE2VA8eo7hOMbnwGkGIgSjf/7VyOSaGEoIwMDxDvI4shyeF0A00TIO9SNBWSnIbNxqaEKAAA0v0ekmyJY4AAAAABJRU5ErkJggg==",
+			"price": 50,
+			"slot": "glasses"
 		}
 	],
 	"v": 1
