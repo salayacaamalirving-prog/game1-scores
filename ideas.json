@@ -167,6 +167,13 @@
 			"name": "Vortex",
 			"status": "pending",
 			"text": "Tabla de clasificación del top monedas"
+		},
+		{
+			"date": "2026-11-13",
+			"id": "17946114553634",
+			"name": "Vortex",
+			"status": "pending",
+			"text": "Agregar un buff am agujero negro, esta muy roto"
 		}
 	],
 	"v": 1.0
