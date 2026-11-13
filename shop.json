@@ -69,7 +69,16 @@
 			"id": "c1794609143_22926",
 			"name": "penesito",
 			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAHtJREFUOI1jYMAD/v///x+dDwMwMUZ0xYyMjBhicMVIcnhtRQe9oSr/calnQhdghAIYvy9MFa+FLLgkCGnE6QJSwSA1AF+oE2VA8eo7hOMbnwGkGIgSjf/7VyOSaGEoIwMDxDvI4shyeF0A00TIO9SNBWSnIbNxqaEKAAA0v0ekmyJY4AAAAABJRU5ErkJggg==",
-			"price": 50,
+			"price": 50.0,
+			"slot": "glasses"
+		},
+		{
+			"author": "samu pou",
+			"date": "2026-11-13",
+			"id": "c1794609690_62004",
+			"name": "steve",
+			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAHtJREFUOI1j7A1V+c9AAWCiRDMDAwMDCzKnyKqdKE19xyqp54KBN4Dxf/9qimIBJRAZCkIYGBgYGITU3BkYGBgY3mWlQvjTZkP4t3ZC1E1YA9cy2LyABJDjmoEBdxqhrhciFiYzMDAwMKyIn4tVMTZ56uYFdJuIARS7AADv0yEuqNtnugAAAABJRU5ErkJggg==",
+			"price": 500,
 			"slot": "glasses"
 		}
 	],
