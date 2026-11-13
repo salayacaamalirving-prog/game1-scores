@@ -6,8 +6,17 @@
 			"id": "c1794592103_69724",
 			"name": "Prueba",
 			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAMtJREFUOI2dU7ERgzAQ0/tYAMqs4A1YgJqeFbKAB2CBrECfOgt4A1ZIiUdwikSceQz4oupdSCfp34IM6rqO6TuEIJzbMUbvRNoxRgAQTabAMg8AgMZOqwhJhHcioomcKUCR1EWK6oyYE9dCoi2fgU7SKEYXdgWW6N03vsnafj0PBUjkbErJ3IZ2Yw7JGSF9D8AvQinYF8neiVSl5GUe1hjsYR/hDxdbga6/dKGxj9D1RZtgDInve9EhHX0q09gJjZ0gt0f2s6RI10gHHwbtcSvSjn2EAAAAAElFTkSuQmCC",
-			"price": 35,
+			"price": 35.0,
 			"slot": "wings"
+		},
+		{
+			"author": "Vortex",
+			"date": "2026-11-13",
+			"id": "c1794592660_14019",
+			"name": "Corona de techno",
+			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAFtJREFUOI1jYBgFo2DQgWeWbv+t2v7/Z2BgYNgqPu9/b6jKfwYGBobqy51w8WeWbv//96/+j9WA/89y//9/lvufWDYDAwMDI7oBxLqWUWoyIwMDAwMTCT4cpAAAmhAzTCPg0PcAAAAASUVORK5CYII=",
+			"price": 50,
+			"slot": "hat"
 		}
 	],
 	"v": 1
