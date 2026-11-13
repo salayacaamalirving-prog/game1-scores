@@ -1,6 +1,14 @@
 {
 	"extremo": [],
 	"local": [],
-	"normal": [],
+	"normal": [
+		{
+			"date": "2026-11-12",
+			"name": "samu pou",
+			"score": 167,
+			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAABJJREFUOI1jYBgFo2AUjAIIAAAEEAABf014jgAAAABJRU5ErkJggg==",
+			"time": 167.12
+		}
+	],
 	"v": 2.0
 }
