@@ -114,7 +114,16 @@
 			"id": "c1794611784_99626",
 			"name": "invisible",
 			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAABhJREFUOI1jYBgFo2AUDBPAKCkh8Z8SAwBTDAFKhrBJ1wAAAABJRU5ErkJggg==",
-			"price": 35,
+			"price": 35.0,
+			"slot": "wings"
+		},
+		{
+			"author": "Vortex",
+			"date": "2026-11-13",
+			"id": "c1794611918_38196",
+			"name": ". prueba",
+			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAACFJREFUOI1jYBgFIx2IiMn/H2wmjQLKALaYICQmIib/HwBf5Qex/DredAAAAABJRU5ErkJggg==",
+			"price": 50,
 			"slot": "wings"
 		}
 	],
