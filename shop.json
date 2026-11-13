@@ -42,8 +42,17 @@
 			"id": "c1794593045_3495",
 			"name": "poor",
 			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAGBJREFUOI1jYBgFwx1UuYr/r3IV/49PDSM+zcICvAwMDAwMbz98Zmjb/RKrWqyCyJphAJchTPg0t+x5C6eFBXgZsHmHEZdmXADdJXAGumaY7cigxkUYwxBGYm0m5JKBAwDGfzIWRf0S0wAAAABJRU5ErkJggg==",
-			"price": 20,
+			"price": 20.0,
 			"slot": "hat"
+		},
+		{
+			"author": "Vortex",
+			"date": "2026-11-13",
+			"id": "c1794593124_32291",
+			"name": "sneak",
+			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAHVJREFUOI1jZMAC/s+X+Y/MZ0x8wohNHQMDAwMTPs1CRV9x6UMYjqzx+SwtBgYGBgbJtGuYCnG4gglZMzaNhAATss04wYd+hv/9q/9jlXtm6fb//3yZ/zAaPQAJugDGgDkfX4hjA4zINpKqmYGBATPOR8GIBAA5fzRaoLmKbAAAAABJRU5ErkJggg==",
+			"price": 20,
+			"slot": "wings"
 		}
 	],
 	"v": 1
