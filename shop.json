@@ -24,7 +24,16 @@
 			"id": "c1794592789_16656",
 			"name": "agua",
 			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAACxJREFUOI1jYBgF1AHp6en/sbGJASwwhlXbf4jGhxkkWQ43QJdEjaNgFCADAHpLCe5RNxVQAAAAAElFTkSuQmCC",
-			"price": 15,
+			"price": 15.0,
+			"slot": "glasses"
+		},
+		{
+			"author": "Vortex",
+			"date": "2026-11-13",
+			"id": "c1794592893_29272",
+			"name": "ladrillo premiun",
+			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAB1JREFUOI1jnLVg2X8GCgATJZpHDRg1YNSAwWQAAOfdAv8E+ducAAAAAElFTkSuQmCC",
+			"price": 10,
 			"slot": "glasses"
 		}
 	],
