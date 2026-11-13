@@ -123,7 +123,16 @@
 			"id": "c1794611918_38196",
 			"name": ". prueba",
 			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAACFJREFUOI1jYBgFIx2IiMn/H2wmjQLKALaYICQmIib/HwBf5Qex/DredAAAAABJRU5ErkJggg==",
-			"price": 50,
+			"price": 50.0,
+			"slot": "wings"
+		},
+		{
+			"author": "Vortex",
+			"date": "2026-11-13",
+			"id": "c1794612082_23302",
+			"name": "cohete",
+			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAGtJREFUOI1jYBhowGjV9v8/ssCxKkZGUgxgQhdAN5BkA0g1BKsBFLuAJAMSpJYzMDAwMKDTRBuw4FkkQ4LUcgZ0mljAOGvBMqwBlpYQRVR0DoJAxCZIrPOxGkCKZgwDSNXMwMDAwIArFogFAMJtIDrZcKsKAAAAAElFTkSuQmCC",
+			"price": 40,
 			"slot": "wings"
 		}
 	],
