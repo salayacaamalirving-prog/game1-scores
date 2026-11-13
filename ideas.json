@@ -160,6 +160,13 @@
 			"name": "dickenorme",
 			"status": "pending",
 			"text": "cambiale el nombre al juego a \"Meteoritos peligrosos\" o algo así y ponle música al menu"
+		},
+		{
+			"date": "2026-11-13",
+			"id": "17946114236358",
+			"name": "Vortex",
+			"status": "pending",
+			"text": "Tabla de clasificación del top monedas"
 		}
 	],
 	"v": 1.0
