@@ -97,17 +97,17 @@
 		},
 		{
 			"date": "2026-11-13",
+			"name": "dickenorme",
+			"score": 102,
+			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAANZJREFUOI1jrL7c+Z+BAsCEzLnIUcZwkaMMrwZ0eRYY4yhbGQPjPwYGq19dDEfYsBti86uLQf9HFwMDAwNDi04ZQ82VLgbG6sud/y9ylDF8hWqWlsXvAgYGBoanj7swvUCsZhgIVipDGKD/A9XZzCwMDP///YPz//39y8DEjLD9GJJalECEgVSu/wyVeq5wfgrPX4ZSdUesLmFiYMAMWX4ZJxS+mJIHhsa197pwu4AUwIJNMG+nJwMDAyK0c3d4wPnSsmUMDC8h6lp0ylgYqZoSRw0gDwAA0vZDUst8OFYAAAAASUVORK5CYII=",
+			"time": 102.09
+		},
+		{
+			"date": "2026-11-13",
 			"name": "ADMIN",
 			"score": 83.0,
 			"skin": "",
 			"time": 84.0
-		},
-		{
-			"date": "2026-11-13",
-			"name": "dickenorme",
-			"score": 62.0,
-			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAANZJREFUOI1jrL7c+Z+BAsCEzLnIUcZwkaMMrwZ0eRYY4yhbGQPjPwYGq19dDEfYsBti86uLQf9HFwMDAwNDi04ZQ82VLgbG6sud/y9ylDF8hWqWlsXvAgYGBoanj7swvUCsZhgIVipDGKD/A9XZzCwMDP///YPz//39y8DEjLD9GJJalECEgVSu/wyVeq5wfgrPX4ZSdUesLmFiYMAMWX4ZJxS+mJIHhsa197pwu4AUwIJNMG+nJwMDAyK0c3d4wPnSsmUMDC8h6lp0ylgYqZoSRw0gDwAA0vZDUst8OFYAAAAASUVORK5CYII=",
-			"time": 62.86
 		}
 	],
 	"tumama": [
@@ -128,7 +128,7 @@
 		{
 			"date": "2026-11-13",
 			"name": "dickenorme",
-			"score": 30,
+			"score": 30.0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAANZJREFUOI1jrL7c+Z+BAsCEzLnIUcZwkaMMrwZ0eRYY4yhbGQPjPwYGq19dDEfYsBti86uLQf9HFwMDAwNDi04ZQ82VLgbG6sud/y9ylDF8hWqWlsXvAgYGBoanj7swvUCsZhgIVipDGKD/A9XZzCwMDP///YPz//39y8DEjLD9GJJalECEgVSu/wyVeq5wfgrPX4ZSdUesLmFiYMAMWX4ZJxS+mJIHhsa197pwu4AUwIJNMG+nJwMDAyK0c3d4wPnSsmUMDC8h6lp0ylgYqZoSRw0gDwAA0vZDUst8OFYAAAAASUVORK5CYII=",
 			"time": 30.7
 		},
