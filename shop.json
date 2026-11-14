@@ -132,8 +132,17 @@
 			"id": "c1794612082_23302",
 			"name": "cohete",
 			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAGtJREFUOI1jYBhowGjV9v8/ssCxKkZGUgxgQhdAN5BkA0g1BKsBFLuAJAMSpJYzMDAwMKDTRBuw4FkkQ4LUcgZ0mljAOGvBMqwBlpYQRVR0DoJAxCZIrPOxGkCKZgwDSNXMwMDAwIArFogFAMJtIDrZcKsKAAAAAElFTkSuQmCC",
-			"price": 40,
+			"price": 40.0,
 			"slot": "wings"
+		},
+		{
+			"author": "Vortex",
+			"date": "2026-11-13",
+			"id": "c1794616051_37441",
+			"name": "prueba 3",
+			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAGZJREFUOI1jZMADRMTk/8PYb149ZETmwwAjPk24ALJhjMRqwuUSDGfhciouAPcCKZqQARM5mjBcQK7tb149ZCTJv9gAxV4YeAMoCkQGBiwJiSwXkOuKN68eMpLlBZTMBGOQmgdgAABSwyzlaaETyQAAAABJRU5ErkJggg==",
+			"price": 10,
+			"slot": "glasses"
 		}
 	],
 	"v": 1
