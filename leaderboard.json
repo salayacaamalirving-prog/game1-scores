@@ -1,70 +1,77 @@
 {
 	"extremo": [
 		{
-			"best": 46,
+			"best": 46.0,
 			"date": "2026-11-14",
 			"name": "samu pou",
-			"score": 90,
+			"score": 90.0,
 			"skin": "",
 			"time": 46.85
 		},
 		{
-			"best": 33,
+			"best": 33.0,
 			"date": "2026-11-14",
 			"name": "w00e",
-			"score": 58,
+			"score": 58.0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAMhJREFUOI1jZGBgYMh3EP/PQAaYeOAlIyO6ZjlRXoIaH73+DGczIWskRjO6JSwwRsuetwwMDAwM7969Y2BgYGDoC1NF0VS06jYDAwMDg5CQEAMDAwNDjYsww6PXnyEuINZmbICJsBL8gDHfQfw/uS6Ae4ESwILM4WKDmPft1z8GbOLY5FjQFX379Q9FA0kuqNr2mihNNS7CcDbcqm+//jG0eYmSpBnFAJgh6ApwaYYlZ3heIDUqYQYwoQuQopmBgYGBkYGBsuwMAM24QK1F42mBAAAAAElFTkSuQmCC",
 			"time": 33.66
 		},
 		{
-			"best": 12,
+			"date": "2026-11-14",
+			"name": "dickenorme",
+			"score": 40,
+			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAF9JREFUOI1jfGbp9p+BAsBEieZhYgALNsEQ351YFa/Z7E59FzBWX+78v/mjLlmaffkvD4JAZII5hVQA08OCLkCWCxgYGBim2XWQZQBj9eVO6mcmUlzDhE1D1qEKog0AAE+RF3cBQF1gAAAAAElFTkSuQmCC",
+			"time": 40.09
+		},
+		{
+			"best": 12.0,
 			"date": "2026-11-14",
 			"name": "hshdhsjaha",
-			"score": 12,
+			"score": 12.0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAASRJREFUOI2lkzFOAzEURN/fNRTpdhsaGiRETToOASUlB6DgBNQpaXMISi5ASwUSLUiJIhoaJxKCYrXroXBWWYKjLGIky/bYf77/2DYASQA50NAPDqjNDFsGV9OKnatZv+i7Q7A4NJOUv1XUF9NIhi3BGSDg/igKOKC5nMXg871+J7h9h6cvGA7Is5bclrkL644lUZalAEYTD0DuoK4ClkX90DS43ZywtPj6oARgPp8bkjh9kYqi0HgR+7aNF0pyRVHo8VOSlJskzl7RR4Dnk7JXCccPnpt9GA5wWXehLaE7T3FduHX10cQTmkC28jfJtfjNQHpjgoMNt7AN7S14790PgXV4vxIsy98Ge+9dRsKHP6DJgPofAvFVLn+kscHUVGYAM+MbbkCN2ds5B8EAAAAASUVORK5CYII=",
 			"time": 12.02
 		}
 	],
 	"local": [
 		{
-			"best": 3,
+			"best": 3.0,
 			"date": "2026-11-14",
 			"name": "samu pou",
-			"score": 3,
+			"score": 3.0,
 			"skin": "",
 			"time": 35.57
 		},
 		{
-			"best": 0,
+			"best": 0.0,
 			"date": "2026-11-14",
 			"name": "w00e",
-			"score": 0,
+			"score": 0.0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAMhJREFUOI1jZGBgYMh3EP/PQAaYeOAlIyO6ZjlRXoIaH73+DGczIWskRjO6JSwwRsuetwwMDAwM7969Y2BgYGDoC1NF0VS06jYDAwMDg5CQEAMDAwNDjYsww6PXnyEuINZmbICJsBL8gDHfQfw/uS6Ae4ESwILM4WKDmPft1z8GbOLY5FjQFX379Q9FA0kuqNr2mihNNS7CcDbcqm+//jG0eYmSpBnFAJgh6ApwaYYlZ3heIDUqYQYwoQuQopmBgYGBkYGBsuwMAM24QK1F42mBAAAAAElFTkSuQmCC",
 			"time": 0.0
 		}
 	],
 	"normal": [
 		{
-			"best": 167,
+			"best": 167.0,
 			"date": "2026-11-14",
 			"name": "samu pou",
-			"score": 167,
+			"score": 167.0,
 			"skin": "",
 			"time": 167.12
 		},
 		{
-			"best": 84,
+			"best": 84.0,
 			"date": "2026-11-14",
 			"name": "w00e",
-			"score": 84,
+			"score": 84.0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAMhJREFUOI1jZGBgYMh3EP/PQAaYeOAlIyO6ZjlRXoIaH73+DGczIWskRjO6JSwwRsuetwwMDAwM7969Y2BgYGDoC1NF0VS06jYDAwMDg5CQEAMDAwNDjYsww6PXnyEuINZmbICJsBL8gDHfQfw/uS6Ae4ESwILM4WKDmPft1z8GbOLY5FjQFX379Q9FA0kuqNr2mihNNS7CcDbcqm+//jG0eYmSpBnFAJgh6ApwaYYlZ3heIDUqYQYwoQuQopmBgYGBkYGBsuwMAM24QK1F42mBAAAAAElFTkSuQmCC",
 			"time": 84.21
 		},
 		{
-			"best": 83,
+			"best": 83.0,
 			"date": "2026-11-14",
 			"name": "hshdhsjaha",
-			"score": 83,
+			"score": 83.0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAASRJREFUOI2lkzFOAzEURN/fNRTpdhsaGiRETToOASUlB6DgBNQpaXMISi5ASwUSLUiJIhoaJxKCYrXroXBWWYKjLGIky/bYf77/2DYASQA50NAPDqjNDFsGV9OKnatZv+i7Q7A4NJOUv1XUF9NIhi3BGSDg/igKOKC5nMXg871+J7h9h6cvGA7Is5bclrkL644lUZalAEYTD0DuoK4ClkX90DS43ZywtPj6oARgPp8bkjh9kYqi0HgR+7aNF0pyRVHo8VOSlJskzl7RR4Dnk7JXCccPnpt9GA5wWXehLaE7T3FduHX10cQTmkC28jfJtfjNQHpjgoMNt7AN7S14790PgXV4vxIsy98Ge+9dRsKHP6DJgPofAvFVLn+kscHUVGYAM+MbbkCN2ds5B8EAAAAASUVORK5CYII=",
 			"time": 84.0
 		}
@@ -74,21 +81,21 @@
 	},
 	"tumama": [
 		{
-			"best": 54,
+			"best": 54.0,
 			"date": "2026-11-14",
 			"name": "samu pou",
-			"score": 54,
+			"score": 54.0,
 			"skin": "",
 			"time": 54.35
 		},
 		{
-			"best": 0,
+			"best": 0.0,
 			"date": "2026-11-14",
 			"name": "w00e",
-			"score": 0,
+			"score": 0.0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAMhJREFUOI1jZGBgYMh3EP/PQAaYeOAlIyO6ZjlRXoIaH73+DGczIWskRjO6JSwwRsuetwwMDAwM7969Y2BgYGDoC1NF0VS06jYDAwMDg5CQEAMDAwNDjYsww6PXnyEuINZmbICJsBL8gDHfQfw/uS6Ae4ESwILM4WKDmPft1z8GbOLY5FjQFX379Q9FA0kuqNr2mihNNS7CcDbcqm+//jG0eYmSpBnFAJgh6ApwaYYlZ3heIDUqYQYwoQuQopmBgYGBkYGBsuwMAM24QK1F42mBAAAAAElFTkSuQmCC",
 			"time": 0.0
 		}
 	],
-	"v": 5
+	"v": 5.0
 }
