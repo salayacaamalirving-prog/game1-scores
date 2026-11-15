@@ -150,8 +150,17 @@
 			"id": "c1794703872_43736",
 			"name": "squid game",
 			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAGRJREFUOI1jFBQU/H9Vw5SBHCB1fBcjE1k6oUBQUPA/4zNLt/8MDAwM2jdOk6QZ5mqKXMDAwMDAgi7w7t07vBqEhITwG4BNET7DKfbCqAG0SAcMDITTAl4DcKUBXIB6XiA3SwMA9WQU8Z+N3OwAAAAASUVORK5CYII=",
-			"price": 10,
+			"price": 10.0,
 			"slot": "glasses"
+		},
+		{
+			"author": "ovejapoder0s",
+			"date": "2026-11-14",
+			"id": "c1794704360_62513",
+			"name": "🍡 Dango 🍡",
+			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAGNJREFUOI1jYBgFjNgE//ev/o9VcWEohnoMAVyacRkC5xDSiMsgJmyahZrSMDSgi8H0MJFiKzZAsQGMMOc8XzWbgYGBgUEyLBWvBmR1jIWhjHADyLK9MJSROl4gxxXYEtXAAABi9yZzAUtpcgAAAABJRU5ErkJggg==",
+			"price": 10,
+			"slot": "hat"
 		}
 	],
 	"v": 1
