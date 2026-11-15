@@ -159,8 +159,17 @@
 			"id": "c1794704360_62513",
 			"name": "🍡 Dango 🍡",
 			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAGNJREFUOI1jYBgFjNgE//ev/o9VcWEohnoMAVyacRkC5xDSiMsgJmyahZrSMDSgi8H0MJFiKzZAsQGMMOc8XzWbgYGBgUEyLBWvBmR1jIWhjHADyLK9MJSROl4gxxXYEtXAAABi9yZzAUtpcgAAAABJRU5ErkJggg==",
-			"price": 10,
+			"price": 10.0,
 			"slot": "hat"
+		},
+		{
+			"author": "ovejapoder0s",
+			"date": "2026-11-15",
+			"id": "c1794787048_88782",
+			"name": "alas",
+			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAHxJREFUOI2dkkESwCAIAxv+/2d6wgkRlDY3AZeA4hG5u2uMBQDpPL3YgRJA6QqNfMQBwLoOlSO+GOcWcAMHxKqkFulorM3BZJlcs2YBgJSQhY0dsN2JmwWoXFRg3cfxGbvlcdw4WO3gBtxGOHWrNP5I7TjR/UvX0K+vrHoB92tkGBnuhZoAAAAASUVORK5CYII=",
+			"price": 50,
+			"slot": "wings"
 		}
 	],
 	"v": 1
