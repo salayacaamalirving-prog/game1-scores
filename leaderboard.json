@@ -12,7 +12,16 @@
 	"local": [],
 	"normal": [],
 	"resets": {},
-	"trabajo": [],
+	"trabajo": [
+		{
+			"best": 59,
+			"date": "2026-11-15",
+			"name": "Admin2",
+			"score": 59,
+			"skin": "",
+			"time": 59.66
+		}
+	],
 	"tumama": [],
 	"v": 5
 }
