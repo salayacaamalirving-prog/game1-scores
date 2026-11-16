@@ -17,12 +17,12 @@
 			"time": 33.66
 		},
 		{
-			"best": 3,
+			"best": 0,
 			"date": "2026-11-15",
 			"name": "Admin2",
-			"score": 3,
+			"score": 0,
 			"skin": "",
-			"time": 3.32
+			"time": 0.0
 		}
 	],
 	"local": [
@@ -53,15 +53,17 @@
 			"time": 106.97
 		}
 	],
-	"resets": {},
+	"resets": {
+		"admin2": 1
+	},
 	"trabajo": [
 		{
-			"best": 59.0,
+			"best": 0,
 			"date": "2026-11-15",
 			"name": "Admin2",
-			"score": 59.0,
+			"score": 0,
 			"skin": "",
-			"time": 59.66
+			"time": 0.0
 		}
 	],
 	"tumama": [
