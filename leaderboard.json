@@ -67,6 +67,14 @@
 			"score": 106,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAE9JREFUOI1j7A1V+c9AAWCiRPPgMIBRUFAQHgbv3r2DS/SFqWIoLlp1G84WEhKijgso98LQj0YWXBIte95iiNW4CBNvADbF2MDAh8HAGwAAd9kPMSOyR6QAAAAASUVORK5CYII=",
 			"time": 106.97
+		},
+		{
+			"best": 102,
+			"date": "2026-11-16",
+			"name": "dickenorme",
+			"score": 102,
+			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAF9JREFUOI1jfGbp9p+BAsBEieZhYgALNsEQ351YFa/Z7E59FzBWX+78v/mjLlmaffkvD4JAZII5hVQA08OCLkCWCxgYGBim2XWQZQBj9eVO6mcmUlzDhE1D1qEKog0AAE+RF3cBQF1gAAAAAElFTkSuQmCC",
+			"time": 102.09
 		}
 	],
 	"resets": {
@@ -74,26 +82,26 @@
 	},
 	"trabajo": [
 		{
-			"best": 117,
+			"best": 117.0,
 			"date": "2026-11-16",
 			"name": "Farfadox6366",
-			"score": 117,
+			"score": 117.0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAPdJREFUOI2Vk7FOAkEQhr/ZXZoLiZ00VsZoR8IjaELiC1DaSWFBaeETyLNY2guPQEGoaAix8QUsztsbiuW4UxZZ/mr2T/5//p3MCICqAljAkwYHFCKCbMX5Kqc1Wqep369AQimiqvYzp3hYBbI8IjaAAtPrYOAA/7QO4kEnLcHbF8y+oZdhTUUe69yE/Em0B+tAy9qy9B5j42ZRg2GmvHT7u/dj2/N8c5tucHZx9+t9fnkfb3/I4BS4GPk6/8DU82W8mFD6+JijCZri/7iDBqfA7BUJ0EYtquoK5ae/3BKJ4mqVq2NSCOuZgl5WBxDYnbOQ/hMf1MIG6JFFLroc2tMAAAAASUVORK5CYII=",
 			"time": 117.45
 		},
 		{
-			"best": 26,
+			"best": 26.0,
 			"date": "2026-11-16",
 			"name": "Admin2",
-			"score": 26,
+			"score": 26.0,
 			"skin": "",
 			"time": 26.3
 		},
 		{
-			"best": 18,
+			"best": 18.0,
 			"date": "2026-11-16",
 			"name": "w00e",
-			"score": 18,
+			"score": 18.0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAE9JREFUOI1j7A1V+c9AAWCiRPPgMIBRUFAQHgbv3r2DS/SFqWIoLlp1G84WEhKijgso98LQj0YWXBIte95iiNW4CBNvADbF2MDAh8HAGwAAd9kPMSOyR6QAAAAASUVORK5CYII=",
 			"time": 18.7
 		}
