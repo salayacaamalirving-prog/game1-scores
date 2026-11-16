@@ -54,16 +54,16 @@
 		}
 	],
 	"resets": {
-		"admin2": 1
+		"admin2": 1.0
 	},
 	"trabajo": [
 		{
-			"best": 0,
+			"best": 15,
 			"date": "2026-11-15",
 			"name": "Admin2",
-			"score": 0,
+			"score": 15,
 			"skin": "",
-			"time": 0.0
+			"time": 15.45
 		}
 	],
 	"tumama": [
