@@ -1,9 +1,18 @@
 {
-	"v": 5,
-	"normal": [],
-	"extremo": [],
+	"extremo": [
+		{
+			"best": 3,
+			"date": "2026-11-15",
+			"name": "Admin2",
+			"score": 3,
+			"skin": "",
+			"time": 3.32
+		}
+	],
 	"local": [],
-	"tumama": [],
+	"normal": [],
+	"resets": {},
 	"trabajo": [],
-	"resets": {}
+	"tumama": [],
+	"v": 5
 }
