@@ -195,6 +195,13 @@
 			"name": "Vortex",
 			"status": "pending",
 			"text": "Top monedas"
+		},
+		{
+			"date": "2026-11-17",
+			"id": "17949462529818",
+			"name": "Vortex",
+			"status": "pending",
+			"text": "Modo pvp local, donde cada 2 segundos se recarguen meteoritos y que se los puedan lanzar los jugadores hasta que uno muera"
 		}
 	],
 	"v": 1.0
