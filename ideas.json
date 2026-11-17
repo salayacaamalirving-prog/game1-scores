@@ -188,6 +188,13 @@
 			"name": "Vortex",
 			"status": "pending",
 			"text": "Cada vez que rompa un meteorito en cualquier modo con el escudo, que cuente como punto al romperlo"
+		},
+		{
+			"date": "2026-11-17",
+			"id": "17949461877260",
+			"name": "Vortex",
+			"status": "pending",
+			"text": "Top monedas"
 		}
 	],
 	"v": 1.0
