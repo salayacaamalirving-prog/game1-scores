@@ -152,20 +152,20 @@
 	"resets": {},
 	"trabajo": [
 		{
+			"best": 161,
+			"date": "2026-11-17",
+			"name": "samu pou",
+			"score": 161,
+			"skin": "",
+			"time": 161.98
+		},
+		{
 			"best": 155,
 			"date": "2026-11-17",
 			"name": "Vortex",
 			"score": 155,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAALxJREFUOI1jYKAQMMIY/5/l/idJo9RkRhQDrNr+k2TAsSpGVANIMQSmGcMALktBFAO++7IwMDAwMHBu/sPAfoOB4acGAwP7DQaG9+/fw/UxEevknxqoNMkG3GEwxSrOgk/Tv4QIhufBNxkYGBgYVBhOY1WD0wVf18bANUuuVcdpCdFeINkAZNu5g5fgNABrNN5hMGWQPLYTRSG3lRCc/e04gWjEFWDYAM5YQLaRaAMMfN8RpenYcYTPKc5MADBTNmnvanNGAAAAAElFTkSuQmCC",
 			"time": 155.12
-		},
-		{
-			"best": 133,
-			"date": "2026-11-17",
-			"name": "samu pou",
-			"score": 133,
-			"skin": "",
-			"time": 133.79
 		},
 		{
 			"best": 121,
