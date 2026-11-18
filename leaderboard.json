@@ -147,6 +147,14 @@
 			"score": 102,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAF9JREFUOI1jfGbp9p+BAsBEieZhYgALNsEQ351YFa/Z7E59FzBWX+78v/mjLlmaffkvD4JAZII5hVQA08OCLkCWCxgYGBim2XWQZQBj9eVO6mcmUlzDhE1D1qEKog0AAE+RF3cBQF1gAAAAAElFTkSuQmCC",
 			"time": 102.09
+		},
+		{
+			"best": 44,
+			"date": "2026-11-18",
+			"name": "bot",
+			"score": 44,
+			"skin": "",
+			"time": 37.54
 		}
 	],
 	"resets": {},
