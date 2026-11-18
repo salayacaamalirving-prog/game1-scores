@@ -210,20 +210,20 @@
 	],
 	"tumama": [
 		{
+			"best": 64,
+			"date": "2026-11-17",
+			"name": "samu pou",
+			"score": 64,
+			"skin": "",
+			"time": 64.87
+		},
+		{
 			"best": 59,
 			"date": "2026-11-16",
 			"name": "w00e",
 			"score": 59,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
 			"time": 59.37
-		},
-		{
-			"best": 54,
-			"date": "2026-11-16",
-			"name": "samu pou",
-			"score": 54,
-			"skin": "",
-			"time": 54.35
 		},
 		{
 			"best": 51,
