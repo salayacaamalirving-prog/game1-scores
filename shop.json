@@ -177,7 +177,16 @@
 			"id": "c1794787095_52751",
 			"name": "alas",
 			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAHxJREFUOI2dkkESwCAIAxv+/2d6wgkRlDY3AZeA4hG5u2uMBQDpPL3YgRJA6QqNfMQBwLoOlSO+GOcWcAMHxKqkFulorM3BZJlcs2YBgJSQhY0dsN2JmwWoXFRg3cfxGbvlcdw4WO3gBtxGOHWrNP5I7TjR/UvX0K+vrHoB92tkGBnuhZoAAAAASUVORK5CYII=",
-			"price": 10,
+			"price": 10.0,
+			"slot": "wings"
+		},
+		{
+			"author": "samu pou",
+			"date": "2026-11-20",
+			"id": "c1795212133_2753",
+			"name": "silokitansongay",
+			"png": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAHlJREFUOI3FUtsJgDAMvJMuoXs5hh9OItQx3MJhXOP8ihSbglbU+0zgXglQCUkCgKaWwHCLwFRTBE1LNuTY8yrRtxE8BG+obchiHbtTD9UOSBIA3LKKDtoIkkxduFcA1qKyJJk68FaJ7GY/mqIsgrn45w/SIh87eIwdQDIzoRb2dfcAAAAASUVORK5CYII=",
+			"price": 500,
 			"slot": "wings"
 		}
 	],
