@@ -1,5 +1,4 @@
 {
-	"ojo": [],
 	"extremo": [
 		{
 			"best": 103,
@@ -158,6 +157,7 @@
 			"time": 50.74
 		}
 	],
+	"ojo": [],
 	"resets": {},
 	"trabajo": [
 		{
@@ -257,6 +257,14 @@
 			"score": 39,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAT9JREFUOI1jYEADlkf//8fHxyWGIghjWx79/x+GkfnI+hjRDTluzciI1QYoOG7NiKKHBUPzjv//l387iks/QySSJcetGRkxXLD821GGyM/WDAxc2A1YznyUIZLLGtMFKIp4cbsA2SuWR///Z8ImKedsxaCXWAfnS9iZMujG12A1BKsB/DJOKHwxJQ+cLkExQFDsEj5XY1WHEgaZTHIMDAxXGTal+KFo2Jjsy4CubhuUDY8FWNzji0IYiOSyhqcHxlkLlqEkGjdpOQYGBgYGwzCEredXbcYwgIEBEogY0ehfWcYQp/gKQ9PaWQkMi+6LwflcE48yWB79/x/FBVOnTIEriFN8hWIAsmZkAI+FqVOmMGTn5GDVgEszAwM0FsoLsxnklDUZfGYuYGDIyYHQDAwMW7whBm6H8mHA8/cXOBsA8guGyR9ugUoAAAAASUVORK5CYII=",
 			"time": 39.84
+		},
+		{
+			"best": 32,
+			"date": "2026-11-20",
+			"name": "bot",
+			"score": 32,
+			"skin": "",
+			"time": 32.04
 		},
 		{
 			"best": 21,
