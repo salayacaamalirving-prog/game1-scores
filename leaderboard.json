@@ -141,6 +141,14 @@
 			"time": 102.09
 		},
 		{
+			"best": 60,
+			"date": "2026-11-23",
+			"name": "ADMIN2",
+			"score": 60,
+			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAPdJREFUOI2Vk7FOAkEQhr/ZXZoLiZ00VsZoR8IjaELiC1DaSWFBaeETyLNY2guPQEGoaAix8QUsztsbiuW4UxZZ/mr2T/5//p3MCICqAljAkwYHFCKCbMX5Kqc1Wqep369AQimiqvYzp3hYBbI8IjaAAtPrYOAA/7QO4kEnLcHbF8y+oZdhTUUe69yE/Em0B+tAy9qy9B5j42ZRg2GmvHT7u/dj2/N8c5tucHZx9+t9fnkfb3/I4BS4GPk6/8DU82W8mFD6+JijCZri/7iDBqfA7BUJ0EYtquoK5ae/3BKJ4mqVq2NSCOuZgl5WBxDYnbOQ/hMf1MIG6JFFLroc2tMAAAAASUVORK5CYII=",
+			"time": 60.87
+		},
+		{
 			"best": 50,
 			"date": "2026-11-18",
 			"name": "bot",
@@ -160,26 +168,26 @@
 	"ojo": [],
 	"ojosolo": [
 		{
-			"best": 67.0,
+			"best": 67,
 			"date": "2026-11-21",
 			"name": "bot",
-			"score": 67.0,
+			"score": 67,
 			"skin": "",
 			"time": 67.26
 		},
 		{
-			"best": 35.0,
+			"best": 35,
 			"date": "2026-11-21",
 			"name": "w00e",
-			"score": 35.0,
+			"score": 35,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
 			"time": 35.39
 		},
 		{
-			"best": 0.0,
+			"best": 0,
 			"date": "2026-11-23",
 			"name": "samu pou",
-			"score": 0.0,
+			"score": 0,
 			"skin": "",
 			"time": 0.0
 		}
@@ -189,58 +197,58 @@
 	},
 	"trabajo": [
 		{
-			"best": 155.0,
+			"best": 155,
 			"date": "2026-11-17",
 			"name": "Vortex",
-			"score": 155.0,
+			"score": 155,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAQVJREFUOI2lUyEOwjAUfSW7QO1u0uA3Aw6Dq5tYQjLFGVAkJAiCmcPgwKye7AxcoLZHKIL8ri2lCJ7a+v97/6X/FciAc2455zbXw3Jk/98Yk+xNHhJ5tz8CALZd+1WEpab5ZAKJxK6cQEz4hW3XwhjDirjQ67X7fsgNAGDeH9yZLC9BfyBAZCKmhHq9DkRmsQOffFYCZyWStaQDmnK91ShHxbR4WgBgUjEtKrtaDh8CgQOytloO0KKy5ajYW2gix3fgBGhN1HBvJLSorBaVvTcyqPkrLYD3Pv0syPKCxakHTb2eaqAJrVOoXLLi9AHTVnzbcSqDaPouckn0I519CzG+Pai/8AKvUnkT22EftgAAAABJRU5ErkJggg==",
 			"time": 155.12
 		},
 		{
-			"best": 121.0,
+			"best": 121,
 			"date": "2026-11-17",
 			"name": "Okarun6767",
-			"score": 121.0,
+			"score": 121,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAT9JREFUOI1jYEADlkf//8fHxyWGIghjWx79/x+GkfnI+hjRDTluzciI1QYoOG7NiKKHBUPzjv//l387iks/QySSJcetGRkxXLD821GGyM/WDAxc2A1YznyUIZLLGtMFKIp4cbsA2SuWR///Z8ImKedsxaCXWAfnS9iZMujG12A1BKsB/DJOKHwxJQ+cLkExQFDsEj5XY1WHEgaZTHIMDAxXGTal+KFo2Jjsy4CubhuUDY8FWNzji0IYiOSyhqcHxlkLlqEkGjdpOQYGBgYGwzCEredXbcYwgIEBEogY0ehfWcYQp/gKQ9PaWQkMi+6LwflcE48yWB79/x/FBVOnTIEriFN8hWIAsmZkAI+FqVOmMGTn5GDVgEszAwM0FsoLsxnklDUZfGYuYGDIyYHQDAwMW7whBm6H8mHA8/cXOBsA8guGyR9ugUoAAAAASUVORK5CYII=",
 			"time": 121.93
 		},
 		{
-			"best": 117.0,
+			"best": 117,
 			"date": "2026-11-16",
 			"name": "Farfadox6366",
-			"score": 117.0,
+			"score": 117,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAPdJREFUOI2Vk7FOAkEQhr/ZXZoLiZ00VsZoR8IjaELiC1DaSWFBaeETyLNY2guPQEGoaAix8QUsztsbiuW4UxZZ/mr2T/5//p3MCICqAljAkwYHFCKCbMX5Kqc1Wqep369AQimiqvYzp3hYBbI8IjaAAtPrYOAA/7QO4kEnLcHbF8y+oZdhTUUe69yE/Em0B+tAy9qy9B5j42ZRg2GmvHT7u/dj2/N8c5tucHZx9+t9fnkfb3/I4BS4GPk6/8DU82W8mFD6+JijCZri/7iDBqfA7BUJ0EYtquoK5ae/3BKJ4mqVq2NSCOuZgl5WBxDYnbOQ/hMf1MIG6JFFLroc2tMAAAAASUVORK5CYII=",
 			"time": 117.45
 		},
 		{
-			"best": 87.0,
+			"best": 87,
 			"date": "2026-11-17",
 			"name": "dickenorme",
-			"score": 87.0,
+			"score": 87,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAF9JREFUOI1jfGbp9p+BAsBEieZhYgALNsEQ351YFa/Z7E59FzBWX+78v/mjLlmaffkvD4JAZII5hVQA08OCLkCWCxgYGBim2XWQZQBj9eVO6mcmUlzDhE1D1qEKog0AAE+RF3cBQF1gAAAAAElFTkSuQmCC",
 			"time": 87.84
 		},
 		{
-			"best": 84.0,
+			"best": 84,
 			"date": "2026-11-17",
 			"name": "w00e",
-			"score": 84.0,
+			"score": 84,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
 			"time": 84.45
 		},
 		{
-			"best": 26.0,
+			"best": 26,
 			"date": "2026-11-17",
 			"name": "Admin2",
-			"score": 26.0,
+			"score": 26,
 			"skin": "",
 			"time": 26.3
 		},
 		{
-			"best": 0.0,
+			"best": 0,
 			"date": "2026-11-20",
 			"name": "samu pou",
-			"score": 0.0,
+			"score": 0,
 			"skin": "",
 			"time": 0.0
 		}
