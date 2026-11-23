@@ -25,14 +25,6 @@
 			"time": 39.26
 		},
 		{
-			"best": 90,
-			"date": "2026-11-16",
-			"name": "samu pou",
-			"score": 90,
-			"skin": "",
-			"time": 46.85
-		},
-		{
 			"best": 74,
 			"date": "2026-11-15",
 			"name": "Farfadox6366",
@@ -55,6 +47,14 @@
 			"score": 15,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAOpJREFUOI21k7FKA1EQRc/drFXCWvoDUYStrG0DfoApLW38Bf9DtrEImCqdhZ1gE3/CJm1SCFpYhFVuiucGDBsyCt7uPebcGZi5ArANYOISgCTyBh7O4K2O0ecH+Go/Gcm2hzN4raHs7Ybny1T7eAgdoRxS57IHZXe3QdmFyQI+DIUgiw29Xa0G02qE688f72k1ihk04PPteP13ennBw81dfILN4uuTs1a43WAv31rcJtn24AWOg1uAtIX7PhQZ+p8t/MlgvowBm4GRbap3PFn8rvPTUeLVhOnL6TwjKrJvWEqxhHWkw5ISugKoO1DIxH1slAAAAABJRU5ErkJggg==",
 			"time": 11.33
+		},
+		{
+			"best": 0,
+			"date": "2026-11-16",
+			"name": "samu pou",
+			"score": 0,
+			"skin": "",
+			"time": 0.0
 		}
 	],
 	"local": [
@@ -75,14 +75,6 @@
 			"time": 46.74
 		},
 		{
-			"best": 3,
-			"date": "2026-11-16",
-			"name": "samu pou",
-			"score": 3,
-			"skin": "",
-			"time": 35.57
-		},
-		{
 			"best": 1,
 			"date": "2026-11-15",
 			"name": "Farfadox6366",
@@ -97,17 +89,17 @@
 			"score": 1,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
 			"time": 33.0
+		},
+		{
+			"best": 0,
+			"date": "2026-11-16",
+			"name": "samu pou",
+			"score": 0,
+			"skin": "",
+			"time": 0.0
 		}
 	],
 	"normal": [
-		{
-			"best": 334,
-			"date": "2026-11-18",
-			"name": "samu pou",
-			"score": 334,
-			"skin": "",
-			"time": 334.4
-		},
 		{
 			"best": 183,
 			"date": "2026-11-15",
@@ -155,18 +147,18 @@
 			"score": 50,
 			"skin": "",
 			"time": 50.74
+		},
+		{
+			"best": 0,
+			"date": "2026-11-18",
+			"name": "samu pou",
+			"score": 0,
+			"skin": "",
+			"time": 0.0
 		}
 	],
 	"ojo": [],
 	"ojosolo": [
-		{
-			"best": 603,
-			"date": "2026-11-23",
-			"name": "samu pou",
-			"score": 603,
-			"skin": "",
-			"time": 603.94
-		},
 		{
 			"best": 67,
 			"date": "2026-11-21",
@@ -182,18 +174,20 @@
 			"score": 35,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
 			"time": 35.39
+		},
+		{
+			"best": 0,
+			"date": "2026-11-23",
+			"name": "samu pou",
+			"score": 0,
+			"skin": "",
+			"time": 0.0
 		}
 	],
-	"resets": {},
+	"resets": {
+		"samu pou": 1
+	},
 	"trabajo": [
-		{
-			"best": 213,
-			"date": "2026-11-20",
-			"name": "samu pou",
-			"score": 213,
-			"skin": "",
-			"time": 213.72
-		},
 		{
 			"best": 155,
 			"date": "2026-11-17",
@@ -241,17 +235,17 @@
 			"score": 26,
 			"skin": "",
 			"time": 26.3
+		},
+		{
+			"best": 0,
+			"date": "2026-11-20",
+			"name": "samu pou",
+			"score": 0,
+			"skin": "",
+			"time": 0.0
 		}
 	],
 	"tumama": [
-		{
-			"best": 64,
-			"date": "2026-11-17",
-			"name": "samu pou",
-			"score": 64,
-			"skin": "",
-			"time": 64.87
-		},
 		{
 			"best": 59,
 			"date": "2026-11-16",
@@ -299,6 +293,14 @@
 			"score": 21,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAOpJREFUOI21k7FKA1EQRc/drFXCWvoDUYStrG0DfoApLW38Bf9DtrEImCqdhZ1gE3/CJm1SCFpYhFVuiucGDBsyCt7uPebcGZi5ArANYOISgCTyBh7O4K2O0ecH+Go/Gcm2hzN4raHs7Ybny1T7eAgdoRxS57IHZXe3QdmFyQI+DIUgiw29Xa0G02qE688f72k1ihk04PPteP13ennBw81dfILN4uuTs1a43WAv31rcJtn24AWOg1uAtIX7PhQZ+p8t/MlgvowBm4GRbap3PFn8rvPTUeLVhOnL6TwjKrJvWEqxhHWkw5ISugKoO1DIxH1slAAAAABJRU5ErkJggg==",
 			"time": 21.71
+		},
+		{
+			"best": 0,
+			"date": "2026-11-17",
+			"name": "samu pou",
+			"score": 0,
+			"skin": "",
+			"time": 0.0
 		}
 	],
 	"v": 5
