@@ -160,87 +160,87 @@
 	"ojo": [],
 	"ojosolo": [
 		{
-			"best": 67,
+			"best": 67.0,
 			"date": "2026-11-21",
 			"name": "bot",
-			"score": 67,
+			"score": 67.0,
 			"skin": "",
 			"time": 67.26
 		},
 		{
-			"best": 35,
+			"best": 35.0,
 			"date": "2026-11-21",
 			"name": "w00e",
-			"score": 35,
+			"score": 35.0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
 			"time": 35.39
 		},
 		{
-			"best": 0,
+			"best": 0.0,
 			"date": "2026-11-23",
 			"name": "samu pou",
-			"score": 0,
+			"score": 0.0,
 			"skin": "",
 			"time": 0.0
 		}
 	],
 	"resets": {
-		"samu pou": 1
+		"samu pou": 1.0
 	},
 	"trabajo": [
 		{
-			"best": 155,
+			"best": 155.0,
 			"date": "2026-11-17",
 			"name": "Vortex",
-			"score": 155,
+			"score": 155.0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAQVJREFUOI2lUyEOwjAUfSW7QO1u0uA3Aw6Dq5tYQjLFGVAkJAiCmcPgwKye7AxcoLZHKIL8ri2lCJ7a+v97/6X/FciAc2455zbXw3Jk/98Yk+xNHhJ5tz8CALZd+1WEpab5ZAKJxK6cQEz4hW3XwhjDirjQ67X7fsgNAGDeH9yZLC9BfyBAZCKmhHq9DkRmsQOffFYCZyWStaQDmnK91ShHxbR4WgBgUjEtKrtaDh8CgQOytloO0KKy5ajYW2gix3fgBGhN1HBvJLSorBaVvTcyqPkrLYD3Pv0syPKCxakHTb2eaqAJrVOoXLLi9AHTVnzbcSqDaPouckn0I519CzG+Pai/8AKvUnkT22EftgAAAABJRU5ErkJggg==",
 			"time": 155.12
 		},
 		{
-			"best": 121,
+			"best": 121.0,
 			"date": "2026-11-17",
 			"name": "Okarun6767",
-			"score": 121,
+			"score": 121.0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAT9JREFUOI1jYEADlkf//8fHxyWGIghjWx79/x+GkfnI+hjRDTluzciI1QYoOG7NiKKHBUPzjv//l387iks/QySSJcetGRkxXLD821GGyM/WDAxc2A1YznyUIZLLGtMFKIp4cbsA2SuWR///Z8ImKedsxaCXWAfnS9iZMujG12A1BKsB/DJOKHwxJQ+cLkExQFDsEj5XY1WHEgaZTHIMDAxXGTal+KFo2Jjsy4CubhuUDY8FWNzji0IYiOSyhqcHxlkLlqEkGjdpOQYGBgYGwzCEredXbcYwgIEBEogY0ehfWcYQp/gKQ9PaWQkMi+6LwflcE48yWB79/x/FBVOnTIEriFN8hWIAsmZkAI+FqVOmMGTn5GDVgEszAwM0FsoLsxnklDUZfGYuYGDIyYHQDAwMW7whBm6H8mHA8/cXOBsA8guGyR9ugUoAAAAASUVORK5CYII=",
 			"time": 121.93
 		},
 		{
-			"best": 117,
+			"best": 117.0,
 			"date": "2026-11-16",
 			"name": "Farfadox6366",
-			"score": 117,
+			"score": 117.0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAPdJREFUOI2Vk7FOAkEQhr/ZXZoLiZ00VsZoR8IjaELiC1DaSWFBaeETyLNY2guPQEGoaAix8QUsztsbiuW4UxZZ/mr2T/5//p3MCICqAljAkwYHFCKCbMX5Kqc1Wqep369AQimiqvYzp3hYBbI8IjaAAtPrYOAA/7QO4kEnLcHbF8y+oZdhTUUe69yE/Em0B+tAy9qy9B5j42ZRg2GmvHT7u/dj2/N8c5tucHZx9+t9fnkfb3/I4BS4GPk6/8DU82W8mFD6+JijCZri/7iDBqfA7BUJ0EYtquoK5ae/3BKJ4mqVq2NSCOuZgl5WBxDYnbOQ/hMf1MIG6JFFLroc2tMAAAAASUVORK5CYII=",
 			"time": 117.45
 		},
 		{
-			"best": 87,
+			"best": 87.0,
 			"date": "2026-11-17",
 			"name": "dickenorme",
-			"score": 87,
+			"score": 87.0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAF9JREFUOI1jfGbp9p+BAsBEieZhYgALNsEQ351YFa/Z7E59FzBWX+78v/mjLlmaffkvD4JAZII5hVQA08OCLkCWCxgYGBim2XWQZQBj9eVO6mcmUlzDhE1D1qEKog0AAE+RF3cBQF1gAAAAAElFTkSuQmCC",
 			"time": 87.84
 		},
 		{
-			"best": 84,
+			"best": 84.0,
 			"date": "2026-11-17",
 			"name": "w00e",
-			"score": 84,
+			"score": 84.0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
 			"time": 84.45
 		},
 		{
-			"best": 26,
+			"best": 26.0,
 			"date": "2026-11-17",
 			"name": "Admin2",
-			"score": 26,
+			"score": 26.0,
 			"skin": "",
 			"time": 26.3
 		},
 		{
-			"best": 0,
+			"best": 0.0,
 			"date": "2026-11-20",
 			"name": "samu pou",
-			"score": 0,
+			"score": 0.0,
 			"skin": "",
 			"time": 0.0
 		}
@@ -279,20 +279,20 @@
 			"time": 39.84
 		},
 		{
+			"best": 36,
+			"date": "2026-11-23",
+			"name": "ovejapoder0s",
+			"score": 36,
+			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAOpJREFUOI21k7FKA1EQRc/drFXCWvoDUYStrG0DfoApLW38Bf9DtrEImCqdhZ1gE3/CJm1SCFpYhFVuiucGDBsyCt7uPebcGZi5ArANYOISgCTyBh7O4K2O0ecH+Go/Gcm2hzN4raHs7Ybny1T7eAgdoRxS57IHZXe3QdmFyQI+DIUgiw29Xa0G02qE688f72k1ihk04PPteP13ennBw81dfILN4uuTs1a43WAv31rcJtn24AWOg1uAtIX7PhQZ+p8t/MlgvowBm4GRbap3PFn8rvPTUeLVhOnL6TwjKrJvWEqxhHWkw5ISugKoO1DIxH1slAAAAABJRU5ErkJggg==",
+			"time": 36.55
+		},
+		{
 			"best": 32,
 			"date": "2026-11-20",
 			"name": "bot",
 			"score": 32,
 			"skin": "",
 			"time": 32.04
-		},
-		{
-			"best": 21,
-			"date": "2026-11-17",
-			"name": "ovejapoder0s",
-			"score": 21,
-			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAOpJREFUOI21k7FKA1EQRc/drFXCWvoDUYStrG0DfoApLW38Bf9DtrEImCqdhZ1gE3/CJm1SCFpYhFVuiucGDBsyCt7uPebcGZi5ArANYOISgCTyBh7O4K2O0ecH+Go/Gcm2hzN4raHs7Ybny1T7eAgdoRxS57IHZXe3QdmFyQI+DIUgiw29Xa0G02qE688f72k1ihk04PPteP13ennBw81dfILN4uuTs1a43WAv31rcJtn24AWOg1uAtIX7PhQZ+p8t/MlgvowBm4GRbap3PFn8rvPTUeLVhOnL6TwjKrJvWEqxhHWkw5ISugKoO1DIxH1slAAAAABJRU5ErkJggg==",
-			"time": 21.71
 		},
 		{
 			"best": 0,
