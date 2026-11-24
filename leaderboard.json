@@ -59,11 +59,11 @@
 	],
 	"local": [
 		{
-			"best": 7,
-			"date": "2026-11-18",
+			"best": 8,
+			"date": "2026-11-24",
 			"name": "Vortex",
-			"score": 7,
-			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAQVJREFUOI2lUyEOwjAUfSW7QO1u0uA3Aw6Dq5tYQjLFGVAkJAiCmcPgwKye7AxcoLZHKIL8ri2lCJ7a+v97/6X/FciAc2455zbXw3Jk/98Yk+xNHhJ5tz8CALZd+1WEpab5ZAKJxK6cQEz4hW3XwhjDirjQ67X7fsgNAGDeH9yZLC9BfyBAZCKmhHq9DkRmsQOffFYCZyWStaQDmnK91ShHxbR4WgBgUjEtKrtaDh8CgQOytloO0KKy5ajYW2gix3fgBGhN1HBvJLSorBaVvTcyqPkrLYD3Pv0syPKCxakHTb2eaqAJrVOoXLLi9AHTVnzbcSqDaPouckn0I519CzG+Pai/8AKvUnkT22EftgAAAABJRU5ErkJggg==",
+			"score": 8,
+			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAOtJREFUOI2VkzFOAzEQRd9fu0JIdNBQIaHtOENAQqJIyw3gCBScAM5CTUuUOyCKKCfgAHSxP8VGxAFvcH41Hs1/M7JmxFq2A5BoUwRWkpBtJAEwXdot7tfztQGQ7SApTRa2gPyPuQMMzPsBEoE0XdpfGW5P2uZ/+dwGQkPnUirirlYQIjhvkDklulCHVQH3B+bx4vrnfXeYeOgv2wFHp1db7+Ozm3r7McA+irXk0/sbXdiwnz9m5FT/5uoEpXlXbhSwj7o/QYPKfZftKGk1WQx3oBHTb/O8l2yD2+6nDrOHhuVF7igudzEBSOIbhd1L+T0qqNQAAAAASUVORK5CYII=",
 			"time": 60.66
 		},
 		{
@@ -168,26 +168,26 @@
 	"ojo": [],
 	"ojosolo": [
 		{
-			"best": 67,
+			"best": 67.0,
 			"date": "2026-11-21",
 			"name": "bot",
-			"score": 67,
+			"score": 67.0,
 			"skin": "",
 			"time": 67.26
 		},
 		{
-			"best": 35,
+			"best": 35.0,
 			"date": "2026-11-21",
 			"name": "w00e",
-			"score": 35,
+			"score": 35.0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
 			"time": 35.39
 		},
 		{
-			"best": 0,
+			"best": 0.0,
 			"date": "2026-11-23",
 			"name": "samu pou",
-			"score": 0,
+			"score": 0.0,
 			"skin": "",
 			"time": 0.0
 		}
