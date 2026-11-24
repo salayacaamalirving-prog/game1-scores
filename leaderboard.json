@@ -150,14 +150,6 @@
 		},
 		{
 			"best": 0,
-			"date": "2026-11-24",
-			"name": "bot",
-			"score": 0,
-			"skin": "",
-			"time": 0.0
-		},
-		{
-			"best": 0,
 			"date": "2026-11-18",
 			"name": "samu pou",
 			"score": 0,
@@ -190,18 +182,9 @@
 			"score": 35,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
 			"time": 35.39
-		},
-		{
-			"best": 0,
-			"date": "2026-11-24",
-			"name": "bot",
-			"score": 0,
-			"skin": "",
-			"time": 0.0
 		}
 	],
 	"resets": {
-		"bot": 1,
 		"samu pou": 1.0
 	},
 	"trabajo": [
@@ -294,14 +277,6 @@
 			"score": 36,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAOpJREFUOI21k7FKA1EQRc/drFXCWvoDUYStrG0DfoApLW38Bf9DtrEImCqdhZ1gE3/CJm1SCFpYhFVuiucGDBsyCt7uPebcGZi5ArANYOISgCTyBh7O4K2O0ecH+Go/Gcm2hzN4raHs7Ybny1T7eAgdoRxS57IHZXe3QdmFyQI+DIUgiw29Xa0G02qE688f72k1ihk04PPteP13ennBw81dfILN4uuTs1a43WAv31rcJtn24AWOg1uAtIX7PhQZ+p8t/MlgvowBm4GRbap3PFn8rvPTUeLVhOnL6TwjKrJvWEqxhHWkw5ISugKoO1DIxH1slAAAAABJRU5ErkJggg==",
 			"time": 36.55
-		},
-		{
-			"best": 0,
-			"date": "2026-11-24",
-			"name": "bot",
-			"score": 0,
-			"skin": "",
-			"time": 0.0
 		},
 		{
 			"best": 0,
