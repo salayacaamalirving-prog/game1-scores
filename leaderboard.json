@@ -149,12 +149,12 @@
 			"time": 78.96
 		},
 		{
-			"best": 50,
+			"best": 0,
 			"date": "2026-11-24",
 			"name": "bot",
-			"score": 50,
+			"score": 0,
 			"skin": "",
-			"time": 50.74
+			"time": 0.0
 		},
 		{
 			"best": 0,
@@ -176,14 +176,6 @@
 			"time": 598.69
 		},
 		{
-			"best": 67,
-			"date": "2026-11-24",
-			"name": "bot",
-			"score": 67,
-			"skin": "",
-			"time": 67.26
-		},
-		{
 			"best": 55,
 			"date": "2026-11-24",
 			"name": "samu pou",
@@ -198,9 +190,18 @@
 			"score": 35,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
 			"time": 35.39
+		},
+		{
+			"best": 0,
+			"date": "2026-11-24",
+			"name": "bot",
+			"score": 0,
+			"skin": "",
+			"time": 0.0
 		}
 	],
 	"resets": {
+		"bot": 1,
 		"samu pou": 1.0
 	},
 	"trabajo": [
@@ -295,12 +296,12 @@
 			"time": 36.55
 		},
 		{
-			"best": 32,
+			"best": 0,
 			"date": "2026-11-24",
 			"name": "bot",
-			"score": 32,
+			"score": 0,
 			"skin": "",
-			"time": 32.04
+			"time": 0.0
 		},
 		{
 			"best": 0,
