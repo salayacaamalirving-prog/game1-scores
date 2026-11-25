@@ -1,14 +1,6 @@
 {
 	"extremo": [
 		{
-			"best": 103,
-			"date": "2026-11-16",
-			"name": "w00e",
-			"score": 103,
-			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
-			"time": 103.32
-		},
-		{
 			"best": 74,
 			"date": "2026-11-15",
 			"name": "Farfadox6366",
@@ -31,6 +23,14 @@
 			"score": 15,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAOpJREFUOI21k7FKA1EQRc/drFXCWvoDUYStrG0DfoApLW38Bf9DtrEImCqdhZ1gE3/CJm1SCFpYhFVuiucGDBsyCt7uPebcGZi5ArANYOISgCTyBh7O4K2O0ecH+Go/Gcm2hzN4raHs7Ybny1T7eAgdoRxS57IHZXe3QdmFyQI+DIUgiw29Xa0G02qE688f72k1ihk04PPteP13ennBw81dfILN4uuTs1a43WAv31rcJtn24AWOg1uAtIX7PhQZ+p8t/MlgvowBm4GRbap3PFn8rvPTUeLVhOnL6TwjKrJvWEqxhHWkw5ISugKoO1DIxH1slAAAAABJRU5ErkJggg==",
 			"time": 11.33
+		},
+		{
+			"best": 0,
+			"date": "2026-11-16",
+			"name": "w00e",
+			"score": 0,
+			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
+			"time": 0.0
 		},
 		{
 			"best": 0,
@@ -67,12 +67,12 @@
 			"time": 36.3
 		},
 		{
-			"best": 1,
+			"best": 0,
 			"date": "2026-11-17",
 			"name": "w00e",
-			"score": 1,
+			"score": 0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
-			"time": 33.0
+			"time": 0.0
 		},
 		{
 			"best": 0,
@@ -109,14 +109,6 @@
 			"time": 123.28
 		},
 		{
-			"best": 106,
-			"date": "2026-11-15",
-			"name": "w00e",
-			"score": 106,
-			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
-			"time": 106.97
-		},
-		{
 			"best": 102,
 			"date": "2026-11-17",
 			"name": "dickenorme",
@@ -139,6 +131,14 @@
 			"score": 50,
 			"skin": "",
 			"time": 50.74
+		},
+		{
+			"best": 0,
+			"date": "2026-11-15",
+			"name": "w00e",
+			"score": 0,
+			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
+			"time": 0.0
 		},
 		{
 			"best": 0,
@@ -176,12 +176,12 @@
 			"time": 55.54
 		},
 		{
-			"best": 35,
+			"best": 0,
 			"date": "2026-11-21",
 			"name": "w00e",
-			"score": 35,
+			"score": 0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
-			"time": 35.39
+			"time": 0.0
 		},
 		{
 			"best": 0,
@@ -201,9 +201,10 @@
 		}
 	],
 	"resets": {
-		"okarun6767": 1,
+		"okarun6767": 1.0,
 		"samu pou": 1.0,
-		"vortex": 1.0
+		"vortex": 1.0,
+		"w00e": 1
 	},
 	"trabajo": [
 		{
@@ -223,12 +224,12 @@
 			"time": 87.84
 		},
 		{
-			"best": 84,
+			"best": 0,
 			"date": "2026-11-17",
 			"name": "w00e",
-			"score": 84,
+			"score": 0,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
-			"time": 84.45
+			"time": 0.0
 		},
 		{
 			"best": 0,
@@ -257,14 +258,6 @@
 	],
 	"tumama": [
 		{
-			"best": 59,
-			"date": "2026-11-16",
-			"name": "w00e",
-			"score": 59,
-			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
-			"time": 59.37
-		},
-		{
 			"best": 44,
 			"date": "2026-11-17",
 			"name": "dickenorme",
@@ -279,6 +272,14 @@
 			"score": 36,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAOpJREFUOI21k7FKA1EQRc/drFXCWvoDUYStrG0DfoApLW38Bf9DtrEImCqdhZ1gE3/CJm1SCFpYhFVuiucGDBsyCt7uPebcGZi5ArANYOISgCTyBh7O4K2O0ecH+Go/Gcm2hzN4raHs7Ybny1T7eAgdoRxS57IHZXe3QdmFyQI+DIUgiw29Xa0G02qE688f72k1ihk04PPteP13ennBw81dfILN4uuTs1a43WAv31rcJtn24AWOg1uAtIX7PhQZ+p8t/MlgvowBm4GRbap3PFn8rvPTUeLVhOnL6TwjKrJvWEqxhHWkw5ISugKoO1DIxH1slAAAAABJRU5ErkJggg==",
 			"time": 36.55
+		},
+		{
+			"best": 0,
+			"date": "2026-11-16",
+			"name": "w00e",
+			"score": 0,
+			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
+			"time": 0.0
 		},
 		{
 			"best": 0,
