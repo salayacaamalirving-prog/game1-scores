@@ -109,20 +109,20 @@
 			"time": 123.28
 		},
 		{
-			"best": 78,
-			"date": "2026-11-24",
-			"name": "Manuel",
-			"score": 78,
-			"skin": "",
-			"time": 78.96
-		},
-		{
 			"best": 50,
 			"date": "2026-11-24",
 			"name": "bot",
 			"score": 50,
 			"skin": "",
 			"time": 50.74
+		},
+		{
+			"best": 0,
+			"date": "2026-11-24",
+			"name": "Manuel",
+			"score": 0,
+			"skin": "",
+			"time": 0.0
 		},
 		{
 			"best": 0,
@@ -201,7 +201,8 @@
 		}
 	],
 	"resets": {
-		"dickenorme": 1,
+		"dickenorme": 1.0,
+		"manuel": 1,
 		"okarun6767": 1.0,
 		"samu pou": 1.0,
 		"vortex": 1.0,
