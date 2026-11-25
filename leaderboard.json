@@ -109,12 +109,12 @@
 			"time": 123.28
 		},
 		{
-			"best": 50,
+			"best": 0,
 			"date": "2026-11-24",
 			"name": "bot",
-			"score": 50,
+			"score": 0,
 			"skin": "",
-			"time": 50.74
+			"time": 0.0
 		},
 		{
 			"best": 0,
@@ -201,8 +201,9 @@
 		}
 	],
 	"resets": {
+		"bot": 1,
 		"dickenorme": 1.0,
-		"manuel": 1,
+		"manuel": 1.0,
 		"okarun6767": 1.0,
 		"samu pou": 1.0,
 		"vortex": 1.0,
