@@ -168,12 +168,12 @@
 	"ojo": [],
 	"ojosolo": [
 		{
-			"best": 55,
+			"best": 0,
 			"date": "2026-11-24",
 			"name": "samu pou",
-			"score": 55,
+			"score": 0,
 			"skin": "",
-			"time": 55.54
+			"time": 0.0
 		},
 		{
 			"best": 0,
@@ -206,8 +206,8 @@
 		"farfadox6366": 1.0,
 		"manuel": 1.0,
 		"okarun6767": 1.0,
-		"ovejapoder0s": 1,
-		"samu pou": 1.0,
+		"ovejapoder0s": 1.0,
+		"samu pou": 2,
 		"vortex": 1.0,
 		"w00e": 1.0
 	},
