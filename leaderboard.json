@@ -109,12 +109,12 @@
 			"time": 123.28
 		},
 		{
-			"best": 0,
-			"date": "2026-11-24",
+			"best": 50,
+			"date": "2026-11-25",
 			"name": "bot",
-			"score": 0,
+			"score": 50,
 			"skin": "",
-			"time": 0.0
+			"time": 50.74
 		},
 		{
 			"best": 0,
@@ -201,7 +201,7 @@
 		}
 	],
 	"resets": {
-		"bot": 1,
+		"bot": 1.0,
 		"dickenorme": 1.0,
 		"manuel": 1.0,
 		"okarun6767": 1.0,
