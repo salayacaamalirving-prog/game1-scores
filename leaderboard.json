@@ -10,14 +10,6 @@
 		},
 		{
 			"best": 95,
-			"date": "2026-11-15",
-			"name": "Vortex",
-			"score": 95,
-			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAARdJREFUOI2lkjFLA0EQhb8NF40QbSKEQEBjZWXrL7AM+gssBbFJlfrqVAGRQAoLf0HA0l8gWFim8lIchIjX6KFJFNfGO92byUVwqt3HvLdv3iz8s0wWWN0t2zzCbBg7HE9rqpw2BDYZjPDGUruwzGJS1aNtFVcdvPkhAGt+3blT/aNAQnw6fwBg098B4LUXiF4DenAfNZEv3tiKEFOBJLhFYWk1G8bGGWEyGKXn+fELhZsNAD4PngFYuVpPNxR9j5MKRL1ABJIQs4/83ogY1Oxby6FuuXhZxng/FDHCsnqvxNhbk/8Ti0ETugq5da2Kqg5K9Y4Eu00A5hk49ytPwzbTsL1YVHOwtxVxcnYPQP8iAnDud49u/xfT/lhL1rt6EAAAAABJRU5ErkJggg==",
-			"time": 60.47
-		},
-		{
-			"best": 95,
 			"date": "2026-11-17",
 			"name": "Okarun6767",
 			"score": 95,
@@ -50,6 +42,14 @@
 		},
 		{
 			"best": 0,
+			"date": "2026-11-15",
+			"name": "Vortex",
+			"score": 0,
+			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAARdJREFUOI2lkjFLA0EQhb8NF40QbSKEQEBjZWXrL7AM+gssBbFJlfrqVAGRQAoLf0HA0l8gWFim8lIchIjX6KFJFNfGO92byUVwqt3HvLdv3iz8s0wWWN0t2zzCbBg7HE9rqpw2BDYZjPDGUruwzGJS1aNtFVcdvPkhAGt+3blT/aNAQnw6fwBg098B4LUXiF4DenAfNZEv3tiKEFOBJLhFYWk1G8bGGWEyGKXn+fELhZsNAD4PngFYuVpPNxR9j5MKRL1ABJIQs4/83ogY1Oxby6FuuXhZxng/FDHCsnqvxNhbk/8Ti0ETugq5da2Kqg5K9Y4Eu00A5hk49ytPwzbTsL1YVHOwtxVxcnYPQP8iAnDud49u/xfT/lhL1rt6EAAAAABJRU5ErkJggg==",
+			"time": 0.0
+		},
+		{
+			"best": 0,
 			"date": "2026-11-16",
 			"name": "samu pou",
 			"score": 0,
@@ -58,14 +58,6 @@
 		}
 	],
 	"local": [
-		{
-			"best": 8,
-			"date": "2026-11-24",
-			"name": "Vortex",
-			"score": 8,
-			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAARdJREFUOI2lkjFLA0EQhb8NF40QbSKEQEBjZWXrL7AM+gssBbFJlfrqVAGRQAoLf0HA0l8gWFim8lIchIjX6KFJFNfGO92byUVwqt3HvLdv3iz8s0wWWN0t2zzCbBg7HE9rqpw2BDYZjPDGUruwzGJS1aNtFVcdvPkhAGt+3blT/aNAQnw6fwBg098B4LUXiF4DenAfNZEv3tiKEFOBJLhFYWk1G8bGGWEyGKXn+fELhZsNAD4PngFYuVpPNxR9j5MKRL1ABJIQs4/83ogY1Oxby6FuuXhZxng/FDHCsnqvxNhbk/8Ti0ETugq5da2Kqg5K9Y4Eu00A5hk49ytPwzbTsL1YVHOwtxVxcnYPQP8iAnDud49u/xfT/lhL1rt6EAAAAABJRU5ErkJggg==",
-			"time": 60.66
-		},
 		{
 			"best": 3,
 			"date": "2026-11-17",
@@ -92,6 +84,14 @@
 		},
 		{
 			"best": 0,
+			"date": "2026-11-24",
+			"name": "Vortex",
+			"score": 0,
+			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAARdJREFUOI2lkjFLA0EQhb8NF40QbSKEQEBjZWXrL7AM+gssBbFJlfrqVAGRQAoLf0HA0l8gWFim8lIchIjX6KFJFNfGO92byUVwqt3HvLdv3iz8s0wWWN0t2zzCbBg7HE9rqpw2BDYZjPDGUruwzGJS1aNtFVcdvPkhAGt+3blT/aNAQnw6fwBg098B4LUXiF4DenAfNZEv3tiKEFOBJLhFYWk1G8bGGWEyGKXn+fELhZsNAD4PngFYuVpPNxR9j5MKRL1ABJIQs4/83ogY1Oxby6FuuXhZxng/FDHCsnqvxNhbk/8Ti0ETugq5da2Kqg5K9Y4Eu00A5hk49ytPwzbTsL1YVHOwtxVxcnYPQP8iAnDud49u/xfT/lhL1rt6EAAAAABJRU5ErkJggg==",
+			"time": 0.0
+		},
+		{
+			"best": 0,
 			"date": "2026-11-16",
 			"name": "samu pou",
 			"score": 0,
@@ -100,14 +100,6 @@
 		}
 	],
 	"normal": [
-		{
-			"best": 183,
-			"date": "2026-11-15",
-			"name": "Vortex",
-			"score": 183,
-			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAARdJREFUOI2lkjFLA0EQhb8NF40QbSKEQEBjZWXrL7AM+gssBbFJlfrqVAGRQAoLf0HA0l8gWFim8lIchIjX6KFJFNfGO92byUVwqt3HvLdv3iz8s0wWWN0t2zzCbBg7HE9rqpw2BDYZjPDGUruwzGJS1aNtFVcdvPkhAGt+3blT/aNAQnw6fwBg098B4LUXiF4DenAfNZEv3tiKEFOBJLhFYWk1G8bGGWEyGKXn+fELhZsNAD4PngFYuVpPNxR9j5MKRL1ABJIQs4/83ogY1Oxby6FuuXhZxng/FDHCsnqvxNhbk/8Ti0ETugq5da2Kqg5K9Y4Eu00A5hk49ytPwzbTsL1YVHOwtxVxcnYPQP8iAnDud49u/xfT/lhL1rt6EAAAAABJRU5ErkJggg==",
-			"time": 165.94
-		},
 		{
 			"best": 155,
 			"date": "2026-11-17",
@@ -158,6 +150,14 @@
 		},
 		{
 			"best": 0,
+			"date": "2026-11-15",
+			"name": "Vortex",
+			"score": 0,
+			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAARdJREFUOI2lkjFLA0EQhb8NF40QbSKEQEBjZWXrL7AM+gssBbFJlfrqVAGRQAoLf0HA0l8gWFim8lIchIjX6KFJFNfGO92byUVwqt3HvLdv3iz8s0wWWN0t2zzCbBg7HE9rqpw2BDYZjPDGUruwzGJS1aNtFVcdvPkhAGt+3blT/aNAQnw6fwBg098B4LUXiF4DenAfNZEv3tiKEFOBJLhFYWk1G8bGGWEyGKXn+fELhZsNAD4PngFYuVpPNxR9j5MKRL1ABJIQs4/83ogY1Oxby6FuuXhZxng/FDHCsnqvxNhbk/8Ti0ETugq5da2Kqg5K9Y4Eu00A5hk49ytPwzbTsL1YVHOwtxVxcnYPQP8iAnDud49u/xfT/lhL1rt6EAAAAABJRU5ErkJggg==",
+			"time": 0.0
+		},
+		{
+			"best": 0,
 			"date": "2026-11-18",
 			"name": "samu pou",
 			"score": 0,
@@ -167,14 +167,6 @@
 	],
 	"ojo": [],
 	"ojosolo": [
-		{
-			"best": 598,
-			"date": "2026-11-24",
-			"name": "Vortex",
-			"score": 598,
-			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAARdJREFUOI2lkjFLA0EQhb8NF40QbSKEQEBjZWXrL7AM+gssBbFJlfrqVAGRQAoLf0HA0l8gWFim8lIchIjX6KFJFNfGO92byUVwqt3HvLdv3iz8s0wWWN0t2zzCbBg7HE9rqpw2BDYZjPDGUruwzGJS1aNtFVcdvPkhAGt+3blT/aNAQnw6fwBg098B4LUXiF4DenAfNZEv3tiKEFOBJLhFYWk1G8bGGWEyGKXn+fELhZsNAD4PngFYuVpPNxR9j5MKRL1ABJIQs4/83ogY1Oxby6FuuXhZxng/FDHCsnqvxNhbk/8Ti0ETugq5da2Kqg5K9Y4Eu00A5hk49ytPwzbTsL1YVHOwtxVxcnYPQP8iAnDud49u/xfT/lhL1rt6EAAAAABJRU5ErkJggg==",
-			"time": 598.69
-		},
 		{
 			"best": 59,
 			"date": "2026-11-24",
@@ -198,20 +190,21 @@
 			"score": 35,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
 			"time": 35.39
+		},
+		{
+			"best": 0,
+			"date": "2026-11-24",
+			"name": "Vortex",
+			"score": 0,
+			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAARdJREFUOI2lkjFLA0EQhb8NF40QbSKEQEBjZWXrL7AM+gssBbFJlfrqVAGRQAoLf0HA0l8gWFim8lIchIjX6KFJFNfGO92byUVwqt3HvLdv3iz8s0wWWN0t2zzCbBg7HE9rqpw2BDYZjPDGUruwzGJS1aNtFVcdvPkhAGt+3blT/aNAQnw6fwBg098B4LUXiF4DenAfNZEv3tiKEFOBJLhFYWk1G8bGGWEyGKXn+fELhZsNAD4PngFYuVpPNxR9j5MKRL1ABJIQs4/83ogY1Oxby6FuuXhZxng/FDHCsnqvxNhbk/8Ti0ETugq5da2Kqg5K9Y4Eu00A5hk49ytPwzbTsL1YVHOwtxVxcnYPQP8iAnDud49u/xfT/lhL1rt6EAAAAABJRU5ErkJggg==",
+			"time": 0.0
 		}
 	],
 	"resets": {
-		"samu pou": 1.0
+		"samu pou": 1.0,
+		"vortex": 1
 	},
 	"trabajo": [
-		{
-			"best": 155,
-			"date": "2026-11-17",
-			"name": "Vortex",
-			"score": 155,
-			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAARdJREFUOI2lkjFLA0EQhb8NF40QbSKEQEBjZWXrL7AM+gssBbFJlfrqVAGRQAoLf0HA0l8gWFim8lIchIjX6KFJFNfGO92byUVwqt3HvLdv3iz8s0wWWN0t2zzCbBg7HE9rqpw2BDYZjPDGUruwzGJS1aNtFVcdvPkhAGt+3blT/aNAQnw6fwBg098B4LUXiF4DenAfNZEv3tiKEFOBJLhFYWk1G8bGGWEyGKXn+fELhZsNAD4PngFYuVpPNxR9j5MKRL1ABJIQs4/83ogY1Oxby6FuuXhZxng/FDHCsnqvxNhbk/8Ti0ETugq5da2Kqg5K9Y4Eu00A5hk49ytPwzbTsL1YVHOwtxVxcnYPQP8iAnDud49u/xfT/lhL1rt6EAAAAABJRU5ErkJggg==",
-			"time": 155.12
-		},
 		{
 			"best": 121,
 			"date": "2026-11-17",
@@ -246,6 +239,14 @@
 		},
 		{
 			"best": 0,
+			"date": "2026-11-17",
+			"name": "Vortex",
+			"score": 0,
+			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAARdJREFUOI2lkjFLA0EQhb8NF40QbSKEQEBjZWXrL7AM+gssBbFJlfrqVAGRQAoLf0HA0l8gWFim8lIchIjX6KFJFNfGO92byUVwqt3HvLdv3iz8s0wWWN0t2zzCbBg7HE9rqpw2BDYZjPDGUruwzGJS1aNtFVcdvPkhAGt+3blT/aNAQnw6fwBg098B4LUXiF4DenAfNZEv3tiKEFOBJLhFYWk1G8bGGWEyGKXn+fELhZsNAD4PngFYuVpPNxR9j5MKRL1ABJIQs4/83ogY1Oxby6FuuXhZxng/FDHCsnqvxNhbk/8Ti0ETugq5da2Kqg5K9Y4Eu00A5hk49ytPwzbTsL1YVHOwtxVxcnYPQP8iAnDud49u/xfT/lhL1rt6EAAAAABJRU5ErkJggg==",
+			"time": 0.0
+		},
+		{
+			"best": 0,
 			"date": "2026-11-20",
 			"name": "samu pou",
 			"score": 0,
@@ -261,14 +262,6 @@
 			"score": 59,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAJ1JREFUOI1jZGBgYOgNVfnPQAYoXn2HkZFczTDARIlmqhjAKCgoCPfCu3fv4BJ9YaooCotW3YazhYSEqOcCyr0w9GOBBZdEy563GGI1LsLEG4BNMTbAqKyoiBKId+7dY2BgwJ0OVJSUsBvw7sMHBgYGBgYhAQG4IehARUkJRR3cAJggDMAkYQbBbMWmjunu/fuM6DahK8Qldvf+fUYABwU6LSxpteoAAAAASUVORK5CYII=",
 			"time": 59.37
-		},
-		{
-			"best": 51,
-			"date": "2026-11-17",
-			"name": "Vortex",
-			"score": 51,
-			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAARdJREFUOI2lkjFLA0EQhb8NF40QbSKEQEBjZWXrL7AM+gssBbFJlfrqVAGRQAoLf0HA0l8gWFim8lIchIjX6KFJFNfGO92byUVwqt3HvLdv3iz8s0wWWN0t2zzCbBg7HE9rqpw2BDYZjPDGUruwzGJS1aNtFVcdvPkhAGt+3blT/aNAQnw6fwBg098B4LUXiF4DenAfNZEv3tiKEFOBJLhFYWk1G8bGGWEyGKXn+fELhZsNAD4PngFYuVpPNxR9j5MKRL1ABJIQs4/83ogY1Oxby6FuuXhZxng/FDHCsnqvxNhbk/8Ti0ETugq5da2Kqg5K9Y4Eu00A5hk49ytPwzbTsL1YVHOwtxVxcnYPQP8iAnDud49u/xfT/lhL1rt6EAAAAABJRU5ErkJggg==",
-			"time": 51.1
 		},
 		{
 			"best": 44,
@@ -293,6 +286,14 @@
 			"score": 36,
 			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAOpJREFUOI21k7FKA1EQRc/drFXCWvoDUYStrG0DfoApLW38Bf9DtrEImCqdhZ1gE3/CJm1SCFpYhFVuiucGDBsyCt7uPebcGZi5ArANYOISgCTyBh7O4K2O0ecH+Go/Gcm2hzN4raHs7Ybny1T7eAgdoRxS57IHZXe3QdmFyQI+DIUgiw29Xa0G02qE688f72k1ihk04PPteP13ennBw81dfILN4uuTs1a43WAv31rcJtn24AWOg1uAtIX7PhQZ+p8t/MlgvowBm4GRbap3PFn8rvPTUeLVhOnL6TwjKrJvWEqxhHWkw5ISugKoO1DIxH1slAAAAABJRU5ErkJggg==",
 			"time": 36.55
+		},
+		{
+			"best": 0,
+			"date": "2026-11-17",
+			"name": "Vortex",
+			"score": 0,
+			"skin": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAARdJREFUOI2lkjFLA0EQhb8NF40QbSKEQEBjZWXrL7AM+gssBbFJlfrqVAGRQAoLf0HA0l8gWFim8lIchIjX6KFJFNfGO92byUVwqt3HvLdv3iz8s0wWWN0t2zzCbBg7HE9rqpw2BDYZjPDGUruwzGJS1aNtFVcdvPkhAGt+3blT/aNAQnw6fwBg098B4LUXiF4DenAfNZEv3tiKEFOBJLhFYWk1G8bGGWEyGKXn+fELhZsNAD4PngFYuVpPNxR9j5MKRL1ABJIQs4/83ogY1Oxby6FuuXhZxng/FDHCsnqvxNhbk/8Ti0ETugq5da2Kqg5K9Y4Eu00A5hk49ytPwzbTsL1YVHOwtxVxcnYPQP8iAnDud49u/xfT/lhL1rt6EAAAAABJRU5ErkJggg==",
+			"time": 0.0
 		},
 		{
 			"best": 0,
